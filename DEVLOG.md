@@ -20,3 +20,4 @@
 - **[2026-04-06 13:02:25]** feat(fastapi): implement responsive core components (18)
 - **[2026-04-06 16:19:44]** feat(langchain): implement responsive core components (19)
 - **[2026-04-06 19:36:03]** feat(chatbot): implement responsive core components (20)
+- **[2026-04-07 10:50:17]** feat(nextjs): implement responsive core components (21)
