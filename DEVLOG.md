@@ -95,3 +95,4 @@
 - **[2026-04-28 16:09:46]** feat(langchain): implement responsive core components (93)
 - **[2026-04-29 10:40:19]** feat(nextjs): implement responsive core components (94)
 - **[2026-04-29 13:57:38]** feat(fastapi): implement responsive core components (95)
+- **[2026-04-29 16:14:57]** feat(langchain): implement responsive core components (96)
